@@ -1,0 +1,7 @@
+- in the end alarm plays for 1 minute
+-after end of alarm timer waits 5 minutes unless user starts timer earlier
+- add option to select how much time does user wants to one period last
+-
+
+#pomysł
+- make a possibility to chose alarm sound
